@@ -1,0 +1,19 @@
+{
+  "name": "teste_bot",
+  "version": "1.0.0",
+  "description": "Testar ambiente web",
+  "main": "teste_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kahunna/teste_bot"
+  },
+  "author": "Fabio Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^3.3.0"
+  },
+  "devDependencies": {}
+}
